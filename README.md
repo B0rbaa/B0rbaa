@@ -6,27 +6,25 @@
 
 Originally from Rio Grande do Sul, I am building my career at the intersection of Software Engineering and Artificial Intelligence. My focus is on developing intelligent applications, integrating Large Language Models (LLMs), and architecting scalable systems with software development best practices.
 
-<p
-    <a href="https://github.com/B0rbaa?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/B0rbaa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/B0rbaa
-    ?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/B0rbaa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+### 📇 Contacts
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/eduardoborbaa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.instagram.com/b0rbaa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="Instagram logo" />
+  </a>
+  <a href="mailto:eduardoborbaoliveira@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail logo" />
+  </a>
+</div>
+
+<br clear="both"/>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -109,10 +107,10 @@ Originally from Rio Grande do Sul, I am building my career at the intersection o
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
+<br clear="both"/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -120,14 +118,15 @@ Originally from Rio Grande do Sul, I am building my career at the intersection o
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=B0rbaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=B0rbaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0rbaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Technologies" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0rbaa&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-
 </p>
+
+<br clear="both"/>
+<br/>
