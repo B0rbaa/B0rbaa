@@ -1,10 +1,10 @@
-# 👩🏻‍💻 Eduardo Borba
+# 👨🏻‍💻 Eduardo Borba
 
-**`AI Engineer`**
+**`Back End & AI Engineering`**
 
-24y | Brazil 🇧🇷 • Software Engineering student focused on AI Engineering
+24y | Santa Maria, RS, Brazil 🇧🇷 • Software Engineering student
 
-Originally from Rio Grande do Sul, I am building my career at the intersection of Software Engineering and Artificial Intelligence. My focus is on developing intelligent applications, integrating Large Language Models (LLMs), and architecting scalable systems with software development best practices.
+I'm building my career in **Back End and AI Engineering**. I practice with real Python projects (APIs, authentication, databases and testing) to get to applications with Generative AI and LLMs on top of a solid software development foundation.
 
 ### 📇 Contacts
 
@@ -102,23 +102,15 @@ Originally from Rio Grande do Sul, I am building my career at the intersection o
 <br clear="both"/>
 <br/>
 
-### 📊 Statistics
+### 🚀 Projects
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=B0rbaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-  <img 
-    align="left" 
-    alt="Top Technologies" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0rbaa&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-</p>
+**[auth-api](https://github.com/B0rbaa/auth-api)** — Authentication system built with FastAPI: user registration with password hashing, JWT login and protected routes.
+In progress: SQLite database, permissions and tests with pytest.
 
-<br clear="both"/>
-<br/>
+<!-- Add the personal finance API here once the repository exists -->
+
+### 📚 Currently Learning
+
+- FastAPI and REST API design
+- SQL and data modeling
+- Advanced Python and automated testing
