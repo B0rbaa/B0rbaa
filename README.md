@@ -104,8 +104,7 @@ I'm building my career in **Back End and AI Engineering**. I practice with real 
 
 ### 🚀 Projects
 
-**[auth-api](https://github.com/B0rbaa/auth-api)** — Authentication system built with FastAPI: user registration with password hashing, JWT login and protected routes.
-In progress: SQLite database, permissions and tests with pytest.
+**[API de Autenticação](https://github.com/B0rbaa/api-de-autenticacao)** — Authentication system built with FastAPI: user registration with password hashing, JWT login and protected routes.
 
 <!-- Add the personal finance API here once the repository exists -->
 
